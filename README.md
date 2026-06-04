@@ -1,6 +1,6 @@
 # 🎯 Complete Bug Bounty Recon Toolkit — Advanced Field Guide
 
-> Rivn er jonno banano — Banglish style, practical commands, real workflows
+> Practical commands, real workflows
 
 ---
 
@@ -643,4 +643,4 @@ recon/
 
 ---
 
-*Built for Rivn — HackerOne @zerodayvigil | Shopify Bug Bounty Hunter*
+*Built for Rivn — HackerOne @zerodayvigil | Bug Bounty Hunter*
